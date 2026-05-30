@@ -23,8 +23,8 @@ To define a Java class Teacher with attributes name, subject, and experience.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: MOHAN S
-RegisterNumber: 212223240094
+Developed by: RATHEESH KUMAR B R
+RegisterNumber: 212223110040
 */
 ```
 
