@@ -21,8 +21,8 @@ To write a Java program that prints all elements in an array greater than a give
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: KAMAL RAJ A
-RegisterNumber: 212223040082
+Developed by: RATHEESH KUMAR B R
+RegisterNumber: 212223110040
 */
 ```
 
